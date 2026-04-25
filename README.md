@@ -1,5 +1,5 @@
 # Sales Dashboard using Power BI
-
+---
 
 In this project, Sales Dashboard was created using the sales data obtained from **Kaggle** website
 
