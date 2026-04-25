@@ -13,4 +13,5 @@ This interactive dashboard contains information about sales in different countri
 This includes a large number of ***Data***
 Edited on Git HUB
 
-![ Dashboard](Screenshot 2026-04-25 125741.jpg)
+<img width="893" height="502" alt="Screenshot 2026-04-25 125741" src="https://github.com/user-attachments/assets/f9b06dc3-4e0b-4031-80d3-3a54838c43f6" />
+
